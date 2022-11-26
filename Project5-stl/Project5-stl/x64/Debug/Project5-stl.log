@@ -1,0 +1,14 @@
+﻿  源.cpp
+D:\Code\C++-study\Project5-stl\Project5-stl\源.cpp(45,18): error C2039: "pEnd": 不是 "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>" 的成员
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(654): message : 参见“std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>”的声明
+          with
+          [
+              _Ty=int
+          ]
+D:\Code\C++-study\Project5-stl\Project5-stl\源.cpp(72,2): error C2672: “test01”: 未找到匹配的重载函数
+D:\Code\C++-study\Project5-stl\Project5-stl\源.cpp(72,2): error C2783: "void test01(void)": 无法推导 "T" 的 模板 参数
+D:\Code\C++-study\Project5-stl\Project5-stl\源.cpp(36): message : 参见“test01”的声明
